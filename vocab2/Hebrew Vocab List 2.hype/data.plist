@@ -94,11 +94,11 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2016-02-16T12:58:15Z</date>
+	<date>2016-02-16T13:03:58Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
-		<integer>5</integer>
+		<integer>4</integer>
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
@@ -1957,7 +1957,7 @@
 	<array>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>733</string>
+			<string>735</string>
 			<key>name</key>
 			<string>Vocabulary</string>
 			<key>oid</key>
@@ -1972,13 +1972,13 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>0.0</real>
+							<real>1.5</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1795, 1197}</string>
+					<string>{1622, 1134}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -2021,7 +2021,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1728, 1184}</string>
+					<string>{1726, 1184}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -2046,7 +2046,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>734</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{0, 2}</string>
 				</dict>
 			</array>
 		</dict>
@@ -2399,7 +2399,7 @@
 							<key>identifier</key>
 							<string>FontSize</string>
 							<key>objectValue</key>
-							<string>30px</string>
+							<string>24px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2471,7 +2471,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Click any Hebrew word to hear its pronunciation.&lt;br&gt;</string>
+							<string>Click any Hebrew word to hear its pronunciation. Any irregular plurals are shown when the English definitions are hidden.&lt;br&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -9516,7 +9516,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>374px</string>
+							<string>444px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -10279,7 +10279,7 @@
 									<key>identifier</key>
 									<string>Top</string>
 									<key>objectValue</key>
-									<string>376px</string>
+									<string>446px</string>
 								</dict>
 								<key>identifier</key>
 								<string>Top</string>
@@ -10294,7 +10294,7 @@
 									<key>identifier</key>
 									<string>Top</string>
 									<key>objectValue</key>
-									<string>374px</string>
+									<string>444px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -10944,7 +10944,7 @@
 									<key>identifier</key>
 									<string>Top</string>
 									<key>objectValue</key>
-									<string>376px</string>
+									<string>446px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -11123,7 +11123,9 @@
 			<key>documentIdentifier</key>
 			<string>7D3FD7AD-B89D-4EEF-99CA-A38E6B17C9F2-62919-0000FB89C8F21F66</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>970</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -18276,7 +18278,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>360px</string>
+							<string>426px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -18318,7 +18320,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>1282px</string>
+							<string>1280px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -18630,7 +18632,7 @@
 							<key>identifier</key>
 							<string>FontSize</string>
 							<key>objectValue</key>
-							<string>30px</string>
+							<string>24px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -18702,7 +18704,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>Click any Hebrew word to hear its pronunciation.&lt;br&gt;</string>
+							<string>Click any Hebrew word to hear its pronunciation. Irregular plurals are shown when the English definitions are hidden.&lt;br&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -19328,7 +19330,7 @@
 									<key>identifier</key>
 									<string>Left</string>
 									<key>objectValue</key>
-									<string>708.5px</string>
+									<string>706.5px</string>
 								</dict>
 								<key>identifier</key>
 								<string>Left</string>
@@ -19344,13 +19346,13 @@
 										<array>
 											<dict>
 												<key>endControlPoint</key>
-												<string>{766, 397}</string>
+												<string>{764, 463}</string>
 												<key>endPoint</key>
-												<string>{766, 397}</string>
+												<string>{764, 463}</string>
 												<key>startControlPoint</key>
-												<string>{1339, 395}</string>
+												<string>{1337, 461}</string>
 												<key>startPoint</key>
-												<string>{1339, 395}</string>
+												<string>{1337, 461}</string>
 											</dict>
 										</array>
 										<key>interpolationPointCount</key>
@@ -19374,7 +19376,7 @@
 									<key>identifier</key>
 									<string>Left</string>
 									<key>objectValue</key>
-									<string>1281.5px</string>
+									<string>1279.5px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -19395,7 +19397,7 @@
 									<key>identifier</key>
 									<string>Top</string>
 									<key>objectValue</key>
-									<string>362px</string>
+									<string>428px</string>
 								</dict>
 								<key>identifier</key>
 								<string>Top</string>
@@ -19411,13 +19413,13 @@
 										<array>
 											<dict>
 												<key>endControlPoint</key>
-												<string>{766, 397}</string>
+												<string>{764, 463}</string>
 												<key>endPoint</key>
-												<string>{766, 397}</string>
+												<string>{764, 463}</string>
 												<key>startControlPoint</key>
-												<string>{1339, 395}</string>
+												<string>{1337, 461}</string>
 												<key>startPoint</key>
-												<string>{1339, 395}</string>
+												<string>{1337, 461}</string>
 											</dict>
 										</array>
 										<key>interpolationPointCount</key>
@@ -19441,7 +19443,7 @@
 									<key>identifier</key>
 									<string>Top</string>
 									<key>objectValue</key>
-									<string>360px</string>
+									<string>426px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -19612,13 +19614,13 @@
 										<array>
 											<dict>
 												<key>endControlPoint</key>
-												<string>{766, 397}</string>
+												<string>{764, 463}</string>
 												<key>endPoint</key>
-												<string>{766, 397}</string>
+												<string>{764, 463}</string>
 												<key>startControlPoint</key>
-												<string>{1339, 395}</string>
+												<string>{1337, 461}</string>
 												<key>startPoint</key>
-												<string>{1339, 395}</string>
+												<string>{1337, 461}</string>
 											</dict>
 										</array>
 										<key>interpolationPointCount</key>
@@ -20402,13 +20404,13 @@
 										<array>
 											<dict>
 												<key>endControlPoint</key>
-												<string>{610.5, 397}</string>
+												<string>{609, 463}</string>
 												<key>endPoint</key>
-												<string>{610.5, 397}</string>
+												<string>{609, 463}</string>
 												<key>startControlPoint</key>
-												<string>{766, 397}</string>
+												<string>{764, 463}</string>
 												<key>startPoint</key>
-												<string>{766, 397}</string>
+												<string>{764, 463}</string>
 											</dict>
 										</array>
 										<key>interpolationPointCount</key>
@@ -20432,7 +20434,7 @@
 									<key>identifier</key>
 									<string>Left</string>
 									<key>objectValue</key>
-									<string>708.5px</string>
+									<string>706.5px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -20462,13 +20464,13 @@
 										<array>
 											<dict>
 												<key>endControlPoint</key>
-												<string>{610.5, 397}</string>
+												<string>{609, 463}</string>
 												<key>endPoint</key>
-												<string>{610.5, 397}</string>
+												<string>{609, 463}</string>
 												<key>startControlPoint</key>
-												<string>{766, 397}</string>
+												<string>{764, 463}</string>
 												<key>startPoint</key>
-												<string>{766, 397}</string>
+												<string>{764, 463}</string>
 											</dict>
 										</array>
 										<key>interpolationPointCount</key>
@@ -20492,7 +20494,7 @@
 									<key>identifier</key>
 									<string>Top</string>
 									<key>objectValue</key>
-									<string>362px</string>
+									<string>428px</string>
 								</dict>
 								<key>symbolElementActionAttributesBySymbolTimeline</key>
 								<dict/>
@@ -20642,13 +20644,13 @@
 										<array>
 											<dict>
 												<key>endControlPoint</key>
-												<string>{610.5, 397}</string>
+												<string>{609, 463}</string>
 												<key>endPoint</key>
-												<string>{610.5, 397}</string>
+												<string>{609, 463}</string>
 												<key>startControlPoint</key>
-												<string>{766, 397}</string>
+												<string>{764, 463}</string>
 												<key>startPoint</key>
-												<string>{766, 397}</string>
+												<string>{764, 463}</string>
 											</dict>
 										</array>
 										<key>interpolationPointCount</key>
