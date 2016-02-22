@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>146</string>
+	<string>1196</string>
 	<key>customExportSlices</key>
 	<array>
 		<dict>
@@ -123,7 +123,7 @@
 	
 	</string>
 	<key>lastCheckDate</key>
-	<date>2016-02-22T05:22:39Z</date>
+	<date>2016-02-22T07:30:52Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -2678,13 +2678,13 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>0.0</real>
+							<real>1.4333333969116211</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1197, 764}</string>
+					<string>{1197, 1013}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -2709,7 +2709,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>53</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{0, 187}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -2750,7 +2750,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>55</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 154}</string>
+					<string>{0, 0}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -2791,7 +2791,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>57</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 123.0859375}</string>
+					<string>{0, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -2896,7 +2896,7 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>11.066666603088379</real>
+							<real>8.1333332061767578</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
@@ -4300,6 +4300,8 @@
 					<string>1219</string>
 					<key>scrollViewOffset</key>
 					<string>{0, 0}</string>
+					<key>userGuides</key>
+					<array/>
 				</dict>
 			</array>
 		</dict>
@@ -15502,7 +15504,7 @@
 			<string>E2D78FCE-E800-4422-AF79-6F13743BEB2D-7837-0000198516578EDC</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>86</string>
+				<string>96</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -18032,7 +18034,7 @@
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>99px</string>
+							<string>110px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -18617,7 +18619,7 @@
 			<string>E2D78FCE-E800-4422-AF79-6F13743BEB2D-7837-0000198516578EDC</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>60</string>
+				<string>71</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -20781,7 +20783,7 @@
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>99px</string>
+							<string>118px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -40337,7 +40339,7 @@
 			<string>E2D78FCE-E800-4422-AF79-6F13743BEB2D-7837-0000198516578EDC</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>201</string>
+				<string>197</string>
 			</array>
 			<key>symbol</key>
 			<dict>
