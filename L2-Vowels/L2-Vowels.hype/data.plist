@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>1</string>
+	<string>1470</string>
 	<key>customExportSlices</key>
 	<array>
 		<dict>
@@ -94,11 +94,11 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2016-02-25T08:42:59Z</date>
+	<date>2016-02-25T08:50:07Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
-		<integer>1</integer>
+		<integer>5</integer>
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
@@ -6848,7 +6848,7 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>1.6666667461395264</real>
+							<real>1.7999999523162842</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
@@ -6982,7 +6982,7 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>1.1333333253860474</real>
+							<real>0.0</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
@@ -33104,7 +33104,7 @@
 			<string>3916ADBA-B8B3-4B84-AB8E-E968DB0AB9E9-53505-0000B7248E75E25C</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>2203</string>
+				<string>2198</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -43770,7 +43770,7 @@
 			<string>3916ADBA-B8B3-4B84-AB8E-E968DB0AB9E9-53505-0000B7248E75E25C</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>967</string>
+				<string>968</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -48776,6 +48776,47 @@
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
+								<string>kTimelineDefaultIdentifier</string>
+								<key>startTime</key>
+								<real>0.0</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ActionHandler</string>
+									<key>objectValue</key>
+									<dict>
+										<key>actions</key>
+										<array>
+											<dict>
+												<key>symbolOid</key>
+												<string>723</string>
+												<key>timelineIdentifier</key>
+												<string>kTimelineDefaultIdentifier</string>
+												<key>type</key>
+												<integer>7</integer>
+											</dict>
+										</array>
+									</dict>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>2</integer>
+								<key>uuid</key>
+								<string>2E97E8AC-5B64-42B1-ACC2-589BEACD790A-53505-0000B79A3A32D91D</string>
+								<key>zIndex</key>
+								<integer>1</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>ActionHandler</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
 								<string>967</string>
 								<key>startTime</key>
 								<real>0.0</real>
@@ -49332,47 +49373,6 @@
 								<integer>0</integer>
 								<key>uuid</key>
 								<string>B7E3427B-9E3E-4776-95EC-A89726C8D01E-1925-0000462717CB5470</string>
-								<key>zIndex</key>
-								<integer>3</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>ActionHandler</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>kTimelineDefaultIdentifier</string>
-								<key>startTime</key>
-								<real>1.2666666507720947</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ActionHandler</string>
-									<key>objectValue</key>
-									<dict>
-										<key>actions</key>
-										<array>
-											<dict>
-												<key>symbolOid</key>
-												<string>723</string>
-												<key>timelineIdentifier</key>
-												<string>kTimelineDefaultIdentifier</string>
-												<key>type</key>
-												<integer>7</integer>
-											</dict>
-										</array>
-									</dict>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>2</integer>
-								<key>uuid</key>
-								<string>38A33361-5B5B-480A-A9CD-A809DF604301-6073-00002DC9D8D4D09E</string>
 								<key>zIndex</key>
 								<integer>3</integer>
 							</dict>
@@ -89833,7 +89833,7 @@
 			<string>3916ADBA-B8B3-4B84-AB8E-E968DB0AB9E9-53505-0000B7248E75E25C</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>1472</string>
+				<string>1483</string>
 			</array>
 			<key>symbol</key>
 			<dict>
