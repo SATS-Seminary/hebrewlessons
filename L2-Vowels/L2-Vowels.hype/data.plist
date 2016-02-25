@@ -52,7 +52,7 @@
 	<key>documentVersion</key>
 	<string>518</string>
 	<key>documentationVerticalSplitViewPosition</key>
-	<real>280</real>
+	<real>325</real>
 	<key>drawSceneBackgrounds</key>
 	<true/>
 	<key>exportSliceOidsToExport</key>
@@ -94,11 +94,11 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2016-02-25T08:59:01Z</date>
+	<date>2016-02-25T09:08:45Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
-		<integer>5</integer>
+		<integer>0</integer>
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
@@ -164,7 +164,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{271, 0}, {898, 360}}</string>
+									<string>{{271, 0}, {898, 340}}</string>
 									<key>identifier</key>
 									<string>container 87</string>
 									<key>isCustomizableViewContainer</key>
@@ -177,7 +177,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{271, 0}, {898, 360}}</string>
+											<string>{{271, 0}, {898, 340}}</string>
 											<key>identifier</key>
 											<string>timelineCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -187,7 +187,7 @@
 								</dict>
 								<dict>
 									<key>frame</key>
-									<string>{{271, 361}, {898, 480}}</string>
+									<string>{{271, 341}, {898, 500}}</string>
 									<key>identifier</key>
 									<string>container 3</string>
 									<key>isCustomizableViewContainer</key>
@@ -200,7 +200,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{271, 361}, {898, 480}}</string>
+											<string>{{271, 341}, {898, 500}}</string>
 											<key>identifier</key>
 											<string>sceneEditorCustomizableContainer</string>
 											<key>isCustomizableViewContainer</key>
@@ -284,7 +284,7 @@
 	<key>monotypeProjectID</key>
 	<string>0929179B-7883-4A36-B524-3D265788C267-16415-00009B3AC3996D3F</string>
 	<key>oidCounter</key>
-	<integer>3120</integer>
+	<integer>3123</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -6580,7 +6580,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{3374, 744}</string>
+					<string>{3672, 1000}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -6605,7 +6605,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>10</string>
 					<key>scrollViewOffset</key>
-					<string>{1632, 78}</string>
+					<string>{938, 0}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -6623,7 +6623,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1616, 1396}</string>
+					<string>{1916, 1396}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -6648,7 +6648,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>210</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 307}</string>
+					<string>{1, 0}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -6670,7 +6670,7 @@
 						<integer>50</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2756, 1396}</string>
+					<string>{1797, 1240}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -6722,7 +6722,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1198, 687}</string>
+					<string>{1798, 960}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -6747,7 +6747,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>479</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 35}</string>
+					<string>{1, 0}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -6763,7 +6763,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1198, 1064}</string>
+					<string>{1798, 1368}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -6788,7 +6788,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>481</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 58}</string>
+					<string>{1, 1}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -6856,7 +6856,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1198, 738}</string>
+					<string>{1798, 962}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -6881,7 +6881,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>723</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 74}</string>
+					<string>{1, 1}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -6990,7 +6990,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1198, 640}</string>
+					<string>{1798, 960}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -7015,7 +7015,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>1471</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{1, 0}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -7124,7 +7124,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1198, 778}</string>
+					<string>{1798, 962}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -7149,7 +7149,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>2497</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 104}</string>
+					<string>{1, 1}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -7260,7 +7260,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1197, 780}</string>
+					<string>{1798, 960}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -7285,7 +7285,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>730</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 105}</string>
+					<string>{1, 0}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -7398,7 +7398,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1197, 640}</string>
+					<string>{1798, 960}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -7423,7 +7423,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>737</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{1, 0}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -7532,7 +7532,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1197, 640}</string>
+					<string>{1798, 960}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -7557,7 +7557,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>1304</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{1, 0}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -7668,7 +7668,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1197, 640}</string>
+					<string>{1798, 960}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -7693,7 +7693,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>2107</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{1, 0}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -7804,7 +7804,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1197, 640}</string>
+					<string>{1798, 960}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -7829,7 +7829,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>2587</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{1, 0}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -7845,7 +7845,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1198, 1205}</string>
+					<string>{1798, 1366}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -7870,7 +7870,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>2614</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 163}</string>
+					<string>{1, 0}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -7940,7 +7940,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1197, 640}</string>
+					<string>{1798, 960}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -7965,7 +7965,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>2743</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{1, 0}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -8078,7 +8078,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{3367, 900}</string>
+					<string>{3666, 1060}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -8103,7 +8103,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>1408</string>
 					<key>scrollViewOffset</key>
-					<string>{1627, 195}</string>
+					<string>{935, 50}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -8218,7 +8218,9 @@
 			<key>documentIdentifier</key>
 			<string>3916ADBA-B8B3-4B84-AB8E-E968DB0AB9E9-53505-0000B7248E75E25C</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>3123</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -13435,6 +13437,147 @@
 							<string>div</string>
 						</dict>
 					</array>
+					<key>3123</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>FontFamily</string>
+							<key>objectValue</key>
+							<string>EzraSILW</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TextColor</string>
+							<key>objectValue</key>
+							<string>#000000</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingRight</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FontSize</string>
+							<key>objectValue</key>
+							<string>16px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Opacity</string>
+							<key>objectValue</key>
+							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WordWrap</string>
+							<key>objectValue</key>
+							<string>break-word</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Text</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>16px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingBottom</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WhiteSpaceCollapsing</string>
+							<key>objectValue</key>
+							<string>preserve</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>23px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>704px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>InnerHTML</string>
+							<key>objectValue</key>
+							<string>Android Chrome font fix&lt;br&gt;</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingLeft</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayHiddenOverride</string>
+							<key>objectValue</key>
+							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>178px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>42</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingTop</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>hidden</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>Text 6</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+					</array>
 					<key>345</key>
 					<array>
 						<dict>
@@ -17228,7 +17371,9 @@
 			<key>documentIdentifier</key>
 			<string>3916ADBA-B8B3-4B84-AB8E-E968DB0AB9E9-53505-0000B7248E75E25C</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>3121</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -23338,6 +23483,147 @@
 							<string>div</string>
 						</dict>
 					</array>
+					<key>3121</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>FontFamily</string>
+							<key>objectValue</key>
+							<string>EzraSILW</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingRight</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FontSize</string>
+							<key>objectValue</key>
+							<string>16px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Opacity</string>
+							<key>objectValue</key>
+							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WordWrap</string>
+							<key>objectValue</key>
+							<string>break-word</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Text</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingBottom</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WhiteSpaceCollapsing</string>
+							<key>objectValue</key>
+							<string>preserve</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>23px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>-2px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>InnerHTML</string>
+							<key>objectValue</key>
+							<string>Android Chrome font fix&lt;br&gt;</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>38</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>178px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingLeft</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayHiddenOverride</string>
+							<key>objectValue</key>
+							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingTop</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>hidden</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>Text 6</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TextColor</string>
+							<key>objectValue</key>
+							<string>#000000</string>
+						</dict>
+					</array>
 					<key>332</key>
 					<array>
 						<dict>
@@ -26458,7 +26744,7 @@
 			<string>3916ADBA-B8B3-4B84-AB8E-E968DB0AB9E9-53505-0000B7248E75E25C</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>1820</string>
+				<string>3122</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -31637,6 +31923,147 @@
 							<string>TextColor</string>
 							<key>objectValue</key>
 							<string>#FFFFFF</string>
+						</dict>
+					</array>
+					<key>3122</key>
+					<array>
+						<dict>
+							<key>identifier</key>
+							<string>FontFamily</string>
+							<key>objectValue</key>
+							<string>EzraSILW</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TextColor</string>
+							<key>objectValue</key>
+							<string>#000000</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingRight</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>FontSize</string>
+							<key>objectValue</key>
+							<string>16px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Opacity</string>
+							<key>objectValue</key>
+							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Display</string>
+							<key>objectValue</key>
+							<string>inline</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WordWrap</string>
+							<key>objectValue</key>
+							<string>break-word</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ClassType</string>
+							<key>objectValue</key>
+							<string>Text</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingBottom</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>WhiteSpaceCollapsing</string>
+							<key>objectValue</key>
+							<string>preserve</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Position</string>
+							<key>objectValue</key>
+							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Height</string>
+							<key>objectValue</key>
+							<string>23px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Left</string>
+							<key>objectValue</key>
+							<string>0px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>InnerHTML</string>
+							<key>objectValue</key>
+							<string>Android Chrome font fix&lt;br&gt;</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingLeft</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayHiddenOverride</string>
+							<key>objectValue</key>
+							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>178px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ZIndex</string>
+							<key>objectValue</key>
+							<string>29</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingTop</string>
+							<key>objectValue</key>
+							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Overflow</string>
+							<key>objectValue</key>
+							<string>hidden</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DisplayName</string>
+							<key>objectValue</key>
+							<string>Text 6</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>TagName</string>
+							<key>objectValue</key>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>433</key>
@@ -153909,6 +154336,6 @@
 	<key>webAppCapable</key>
 	<integer>0</integer>
 	<key>zoomFactor</key>
-	<real>0.75</real>
+	<real>0.5</real>
 </dict>
 </plist>
