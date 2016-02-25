@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>1470</string>
+	<string>1407</string>
 	<key>customExportSlices</key>
 	<array>
 		<dict>
@@ -94,7 +94,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2016-02-25T08:50:07Z</date>
+	<date>2016-02-25T08:54:37Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -6578,7 +6578,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{3672, 960}</string>
+					<string>{3374, 744}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -6603,7 +6603,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>10</string>
 					<key>scrollViewOffset</key>
-					<string>{938, 0}</string>
+					<string>{1632, 78}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -6621,7 +6621,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1916, 1547}</string>
+					<string>{1616, 1396}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -6646,7 +6646,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>210</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 91}</string>
+					<string>{0, 307}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -6720,7 +6720,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1796, 960}</string>
+					<string>{1198, 687}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -6745,7 +6745,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>479</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{0, 35}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -6761,7 +6761,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1796, 1366}</string>
+					<string>{1198, 1064}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -6786,7 +6786,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>481</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{0, 58}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -6854,7 +6854,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1796, 960}</string>
+					<string>{1198, 738}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -6879,7 +6879,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>723</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{0, 74}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -6988,7 +6988,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1796, 960}</string>
+					<string>{1198, 640}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -7122,7 +7122,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1796, 960}</string>
+					<string>{1198, 778}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -7147,7 +7147,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>2497</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{0, 104}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -7258,7 +7258,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1796, 960}</string>
+					<string>{1197, 780}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -7283,7 +7283,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>730</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{0, 105}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -7390,13 +7390,13 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>1.1666666269302368</real>
+							<real>1.0666667222976685</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1796, 960}</string>
+					<string>{1197, 640}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -7524,13 +7524,13 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>1.4666666984558105</real>
+							<real>0.0</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1228, 1180}</string>
+					<string>{1197, 640}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -7660,13 +7660,13 @@
 							<key>1233</key>
 							<real>0.0</real>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>1</real>
+							<real>0.0</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1228, 1180}</string>
+					<string>{1197, 640}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -7802,7 +7802,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{2756, 1396}</string>
+					<string>{1197, 640}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -7843,7 +7843,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1796, 1366}</string>
+					<string>{1198, 1205}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -7868,7 +7868,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>2614</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{0, 163}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -7938,7 +7938,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1228, 1180}</string>
+					<string>{1197, 640}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -8070,13 +8070,13 @@
 							<key>3107</key>
 							<real>0.0</real>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>0.76666665077209473</real>
+							<real>0.66666668653488159</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{4146, 1396}</string>
+					<string>{3367, 900}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -8101,7 +8101,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>1408</string>
 					<key>scrollViewOffset</key>
-					<string>{695, 0}</string>
+					<string>{1627, 195}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -58722,9 +58722,7 @@
 			<key>documentIdentifier</key>
 			<string>3916ADBA-B8B3-4B84-AB8E-E968DB0AB9E9-53505-0000B7248E75E25C</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>1188</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -59499,7 +59497,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>337px</string>
+							<string>352px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -59628,7 +59626,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>362px</string>
+							<string>377px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -59793,7 +59791,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>368px</string>
+							<string>383px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -59938,7 +59936,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>365px</string>
+							<string>380px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -60079,7 +60077,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>355px</string>
+							<string>370px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -60250,7 +60248,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>249px</string>
+							<string>264px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -60421,7 +60419,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>171px</string>
+							<string>186px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -60592,7 +60590,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>81px</string>
+							<string>96px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -60769,7 +60767,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>183px</string>
+							<string>198px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -60916,7 +60914,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>263px</string>
+							<string>278px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -61063,7 +61061,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>236px</string>
+							<string>251px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -61210,7 +61208,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>92px</string>
+							<string>107px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -61339,7 +61337,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>257px</string>
+							<string>272px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -61504,7 +61502,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>150px</string>
+							<string>165px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -61649,7 +61647,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>181px</string>
+							<string>196px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -61772,7 +61770,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>172px</string>
+							<string>187px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -61961,7 +61959,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>56px</string>
+							<string>48px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -61985,7 +61983,7 @@
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>74px</string>
+							<string>96px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -62060,7 +62058,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>82px</string>
+							<string>97px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -62231,7 +62229,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>89px</string>
+							<string>104px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -73960,9 +73958,7 @@
 			<key>documentIdentifier</key>
 			<string>3916ADBA-B8B3-4B84-AB8E-E968DB0AB9E9-53505-0000B7248E75E25C</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>1294</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -76117,61 +76113,6 @@
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>1293</string>
-								<key>startTime</key>
-								<real>0.0</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ActionHandler</string>
-									<key>objectValue</key>
-									<dict>
-										<key>actions</key>
-										<array>
-											<dict>
-												<key>playInReverse</key>
-												<false/>
-												<key>timelineIdentifier</key>
-												<string>kTimelineDefaultIdentifier</string>
-												<key>type</key>
-												<integer>3</integer>
-											</dict>
-										</array>
-									</dict>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict>
-									<key>kTimelineDefaultIdentifier</key>
-									<dict>
-										<key>currentTime</key>
-										<real>0.0</real>
-										<key>duration</key>
-										<real>0.0</real>
-										<key>index</key>
-										<integer>0</integer>
-										<key>playInReverse</key>
-										<false/>
-										<key>playing</key>
-										<true/>
-									</dict>
-								</dict>
-								<key>timingFunctionOid</key>
-								<string>a</string>
-								<key>type</key>
-								<integer>3</integer>
-								<key>uuid</key>
-								<string>FF11118C-6B79-4D4F-B7F4-918330A26E10-6073-00002F05393AD33D</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>ActionHandler</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
 								<string>1294</string>
 								<key>startTime</key>
 								<real>0.0</real>
@@ -76218,47 +76159,6 @@
 								<string>FBCD2E8A-DC57-4F63-A190-7D3AA651FC5F-6073-00002F053A234133</string>
 								<key>zIndex</key>
 								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>ActionHandler</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>kTimelineDefaultIdentifier</string>
-								<key>startTime</key>
-								<real>0.0</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ActionHandler</string>
-									<key>objectValue</key>
-									<dict>
-										<key>actions</key>
-										<array>
-											<dict>
-												<key>symbolOid</key>
-												<string>737</string>
-												<key>timelineIdentifier</key>
-												<string>kTimelineDefaultIdentifier</string>
-												<key>type</key>
-												<integer>7</integer>
-											</dict>
-										</array>
-									</dict>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>2</integer>
-								<key>uuid</key>
-								<string>0121CAB8-8F2E-420B-B944-D4341CC53AEF-6073-00002F206FCC50CC</string>
-								<key>zIndex</key>
-								<integer>3</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -83800,47 +83700,6 @@
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>kTimelineDefaultIdentifier</string>
-								<key>startTime</key>
-								<real>0.0</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ActionHandler</string>
-									<key>objectValue</key>
-									<dict>
-										<key>actions</key>
-										<array>
-											<dict>
-												<key>symbolOid</key>
-												<string>737</string>
-												<key>timelineIdentifier</key>
-												<string>kTimelineDefaultIdentifier</string>
-												<key>type</key>
-												<integer>7</integer>
-											</dict>
-										</array>
-									</dict>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>2</integer>
-								<key>uuid</key>
-								<string>0121CAB8-8F2E-420B-B944-D4341CC53AEF-6073-00002F206FCC50CC</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>ActionHandler</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
 								<string>2424</string>
 								<key>startTime</key>
 								<real>0.0</real>
@@ -89832,9 +89691,7 @@
 			<key>documentIdentifier</key>
 			<string>3916ADBA-B8B3-4B84-AB8E-E968DB0AB9E9-53505-0000B7248E75E25C</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>1483</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -154052,6 +153909,6 @@
 	<key>webAppCapable</key>
 	<integer>0</integer>
 	<key>zoomFactor</key>
-	<real>0.5</real>
+	<real>0.75</real>
 </dict>
 </plist>
