@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>1407</string>
+	<string>1</string>
 	<key>customExportSlices</key>
 	<array>
 		<dict>
@@ -94,7 +94,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2016-02-25T08:54:37Z</date>
+	<date>2016-02-25T08:59:01Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -6564,7 +6564,9 @@
 					<key>animationController</key>
 					<dict>
 						<key>expandedItems</key>
-						<array/>
+						<array>
+							<string>219</string>
+						</array>
 						<key>timeCursors</key>
 						<dict>
 							<key>347</key>
@@ -17226,9 +17228,7 @@
 			<key>documentIdentifier</key>
 			<string>3916ADBA-B8B3-4B84-AB8E-E968DB0AB9E9-53505-0000B7248E75E25C</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>1891</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -22975,7 +22975,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>0px</string>
+							<string>-9px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -23041,7 +23041,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>42px</string>
+							<string>35px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -23804,7 +23804,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>16px</string>
+							<string>14px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
