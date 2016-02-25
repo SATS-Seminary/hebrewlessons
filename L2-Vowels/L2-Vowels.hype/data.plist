@@ -94,11 +94,11 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2016-02-25T09:12:50Z</date>
+	<date>2016-02-25T09:15:54Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
-		<integer>0</integer>
+		<integer>4</integer>
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
@@ -17368,11 +17368,13 @@
 			</dict>
 		</dict>
 		<dict>
+			<key>currentGroupElement</key>
+			<string>219</string>
 			<key>documentIdentifier</key>
 			<string>3916ADBA-B8B3-4B84-AB8E-E968DB0AB9E9-53505-0000B7248E75E25C</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>3121</string>
+				<string>206</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -22907,7 +22909,7 @@
 							<key>identifier</key>
 							<string>FontFamily</string>
 							<key>objectValue</key>
-							<string>Futura,Verdana,sans-serif</string>
+							<string>EzraSILW</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -23015,7 +23017,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>&lt;span style="color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: center; text-transform: none; text-indent: 0px; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;Ezekiel 34:23ff&lt;/span&gt;&lt;br style="font-family: Helvetica, Arial, sans-serif;"&gt;&lt;span style="color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: center; text-transform: none; text-indent: 0px; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;Geniza Fragment,&amp;nbsp;Bodley Library&lt;/span&gt;&lt;br style="font-family: Helvetica, Arial, sans-serif;"&gt;&lt;span style="color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-style: normal; font-variant: normal; text-align: center; text-transform: none; text-indent: 0px; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;University of Oxford&lt;/span&gt;&lt;br&gt;</string>
+							<string>&lt;span style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-align: center; text-transform: none; text-indent: 0px; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;Ezekiel 34:23ff&lt;/span&gt;&lt;br style="font-family: Helvetica, Arial, sans-serif;"&gt;&lt;span style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-align: center; text-transform: none; text-indent: 0px; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;Geniza Fragment,&amp;nbsp;Bodley Library&lt;/span&gt;&lt;br style="font-family: Helvetica, Arial, sans-serif;"&gt;&lt;span style="color: rgb(0, 0, 0); font-style: normal; font-variant: normal; text-align: center; text-transform: none; text-indent: 0px; letter-spacing: normal; white-space: normal; word-spacing: 0px; background-color: rgb(255, 255, 255);"&gt;University of Oxford&lt;/span&gt;&lt;br&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
