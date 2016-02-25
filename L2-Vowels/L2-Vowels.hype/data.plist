@@ -94,7 +94,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2016-02-25T09:08:45Z</date>
+	<date>2016-02-25T09:12:50Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -23513,7 +23513,7 @@
 							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
-							<string>0</string>
+							<string>1</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -23547,6 +23547,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>Cursor</string>
+							<key>objectValue</key>
+							<string>pointer</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>WhiteSpaceCollapsing</string>
 							<key>objectValue</key>
 							<string>preserve</string>
@@ -23567,7 +23573,7 @@
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>-2px</string>
+							<string>-242px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -23598,6 +23604,24 @@
 							<string>DisplayHiddenOverride</string>
 							<key>objectValue</key>
 							<string>0</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>ActionHandlerOnMouseClick</string>
+							<key>objectValue</key>
+							<dict>
+								<key>actions</key>
+								<array>
+									<dict>
+										<key>type</key>
+										<integer>0</integer>
+									</dict>
+									<dict>
+										<key>type</key>
+										<integer>0</integer>
+									</dict>
+								</array>
+							</dict>
 						</dict>
 						<dict>
 							<key>identifier</key>
