@@ -46,11 +46,11 @@
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierAnimated</string>
 		<string>kPropertiesMenuItemIdentifierPosition</string>
+		<string>kPropertiesMenuItemIdentifierAnimated</string>
 	</array>
 	<key>documentVersion</key>
-	<string>518</string>
+	<string>526</string>
 	<key>documentationVerticalSplitViewPosition</key>
 	<real>280</real>
 	<key>drawSceneBackgrounds</key>
@@ -94,11 +94,11 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2016-02-18T14:06:45Z</date>
+	<date>2016-03-08T13:34:28Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
-		<integer>4</integer>
+		<integer>0</integer>
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
@@ -285,6 +285,8 @@
 	<string>0D2F9BF4-8929-4F27-8E14-8754D6D161B8-78770-00014EB44DE3AA51</string>
 	<key>oidCounter</key>
 	<integer>13</integer>
+	<key>pageTitle</key>
+	<string>Lesson 4 - The Article and Conjunction</string>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -298,7 +300,7 @@
 			<key>currentSceneOid</key>
 			<string>13</string>
 			<key>name</key>
-			<string>Untitled Scene</string>
+			<string>Introduction</string>
 			<key>oid</key>
 			<string>1</string>
 			<key>scenes</key>
@@ -343,8 +345,6 @@
 					<string>8</string>
 					<key>scrollViewOffset</key>
 					<string>{1, 1}</string>
-					<key>userGuides</key>
-					<array/>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -386,8 +386,6 @@
 					<string>10</string>
 					<key>scrollViewOffset</key>
 					<string>{0, 1}</string>
-					<key>userGuides</key>
-					<array/>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -403,7 +401,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1206, 891}</string>
+					<string>{1098, 808}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -428,7 +426,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>12</string>
 					<key>scrollViewOffset</key>
-					<string>{81, 28}</string>
+					<string>{0, 28}</string>
 					<key>userGuides</key>
 					<array/>
 				</dict>
@@ -457,7 +455,9 @@
 	<array>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>EFEE3C5C-4350-4D1E-87AA-876A807E4709-78770-00014EAC5200B88D</string>
+			<string>C65A20C3-8037-4A3E-B1DF-4BED50BF60FB-26933-00026722D49116F5</string>
+			<key>selectedObjects</key>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -474,6 +474,61 @@
 				<string>Scene Symbol</string>
 				<key>oid</key>
 				<string>8</string>
+				<key>onSceneDragActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyPressActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneLoadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeLeftActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeRightActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneTimelineCompleteActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneUnloadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
 				<key>onTopDuringSceneTransition</key>
 				<true/>
 				<key>properties</key>
@@ -514,7 +569,9 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>EFEE3C5C-4350-4D1E-87AA-876A807E4709-78770-00014EAC5200B88D</string>
+			<string>C65A20C3-8037-4A3E-B1DF-4BED50BF60FB-26933-00026722D49116F5</string>
+			<key>selectedObjects</key>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -531,6 +588,61 @@
 				<string>Scene Symbol</string>
 				<key>oid</key>
 				<string>10</string>
+				<key>onSceneDragActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyPressActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneLoadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeLeftActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeRightActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneTimelineCompleteActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneUnloadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
 				<key>onTopDuringSceneTransition</key>
 				<true/>
 				<key>properties</key>
@@ -571,7 +683,7 @@
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>EFEE3C5C-4350-4D1E-87AA-876A807E4709-78770-00014EAC5200B88D</string>
+			<string>C65A20C3-8037-4A3E-B1DF-4BED50BF60FB-26933-00026722D49116F5</string>
 			<key>selectedObjects</key>
 			<array/>
 			<key>symbol</key>
@@ -590,6 +702,61 @@
 				<string>Scene Symbol</string>
 				<key>oid</key>
 				<string>12</string>
+				<key>onSceneDragActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyPressActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneKeyUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneLoadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeDownActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeLeftActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeRightActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneSwipeUpActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneTimelineCompleteActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
+				<key>onSceneUnloadActionHandler</key>
+				<dict>
+					<key>actions</key>
+					<array/>
+				</dict>
 				<key>onTopDuringSceneTransition</key>
 				<true/>
 				<key>properties</key>
