@@ -103,7 +103,7 @@
 &lt;/style&gt;	
 	</string>
 	<key>lastCheckDate</key>
-	<date>2017-01-20T08:37:11Z</date>
+	<date>2017-01-20T08:55:00Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -6562,7 +6562,7 @@
 	<array>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>5</string>
+			<string>11</string>
 			<key>name</key>
 			<string>Intro</string>
 			<key>oid</key>
@@ -6589,7 +6589,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{3672, 1040}</string>
+					<string>{3672, 1112}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -6614,7 +6614,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>10</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 0}</string>
+					<string>{938, 0}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -6624,7 +6624,7 @@
 						<key>timeCursors</key>
 						<dict>
 							<key>346</key>
-							<real>3</real>
+							<real>0.0</real>
 							<key>kTimelineDefaultIdentifier</key>
 							<real>3.1333334445953369</real>
 						</dict>
@@ -6632,7 +6632,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1916, 1396}</string>
+					<string>{1796, 1244}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -6657,7 +6657,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>210</string>
 					<key>scrollViewOffset</key>
-					<string>{1, 0}</string>
+					<string>{0, 66}</string>
 				</dict>
 				<dict>
 					<key>animationController</key>
@@ -6710,7 +6710,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>484</string>
+			<string>480</string>
 			<key>name</key>
 			<string>Long Vowels</string>
 			<key>oid</key>
@@ -6844,7 +6844,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>728</string>
+			<string>724</string>
 			<key>name</key>
 			<string>Short Vowels</string>
 			<key>oid</key>
@@ -6978,7 +6978,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>1526</string>
+			<string>1486</string>
 			<key>name</key>
 			<string>Reduced Vowels</string>
 			<key>oid</key>
@@ -7112,7 +7112,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>2561</string>
+			<string>2519</string>
 			<key>name</key>
 			<string>Shewa</string>
 			<key>oid</key>
@@ -7246,7 +7246,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>735</string>
+			<string>731</string>
 			<key>name</key>
 			<string>Vowel Letters</string>
 			<key>oid</key>
@@ -7386,7 +7386,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>742</string>
+			<string>738</string>
 			<key>name</key>
 			<string>Vowel Letters</string>
 			<key>oid</key>
@@ -7520,7 +7520,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>1333</string>
+			<string>1313</string>
 			<key>name</key>
 			<string>Vowel Letters</string>
 			<key>oid</key>
@@ -7654,7 +7654,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>2149</string>
+			<string>2115</string>
 			<key>name</key>
 			<string>Defective Writing</string>
 			<key>oid</key>
@@ -7792,7 +7792,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>2666</string>
+			<string>2613</string>
 			<key>name</key>
 			<string>Double-Duty Dot</string>
 			<key>oid</key>
@@ -7928,7 +7928,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>2780</string>
+			<string>2754</string>
 			<key>name</key>
 			<string>Furtive Pathach</string>
 			<key>oid</key>
@@ -8064,7 +8064,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>1413</string>
+			<string>1409</string>
 			<key>name</key>
 			<string>Practise 1</string>
 			<key>oid</key>
@@ -17404,7 +17404,7 @@
 				<key>addToNewSceneControllers</key>
 				<false/>
 				<key>currentTimelineIdentifier</key>
-				<string>347</string>
+				<string>kTimelineDefaultIdentifier</string>
 				<key>customBehaviors</key>
 				<array/>
 				<key>elements</key>
