@@ -100,7 +100,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2018-03-06T11:26:03Z</date>
+	<date>2018-03-06T11:41:50Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -12292,7 +12292,9 @@
 			<key>documentIdentifier</key>
 			<string>3958DBD6-EC36-4C18-BC69-3787905A8FC1-2388-00001185E62D8753</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>2865</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -13993,6 +13995,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>AccessibilityRole</string>
+							<key>objectValue</key>
+							<string>button</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
 							<string>לְ</string>
@@ -14026,7 +14034,7 @@
 										<key>loop</key>
 										<false/>
 										<key>resourceGroupOid</key>
-										<string>3217</string>
+										<string>3216</string>
 										<key>type</key>
 										<integer>12</integer>
 									</dict>
