@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>1</string>
+	<string>1407</string>
 	<key>customExportSlices</key>
 	<array>
 		<dict>
@@ -74,7 +74,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2019-02-05T12:27:27Z</date>
+	<date>2019-02-05T12:33:46Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -8488,6 +8488,10 @@
 					</dict>
 					<key>canvasSize</key>
 					<string>{1132, 968}</string>
+					<key>currentSymbolElementPath</key>
+					<array>
+						<string>1784</string>
+					</array>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -8529,6 +8533,10 @@
 					</dict>
 					<key>canvasSize</key>
 					<string>{1132, 1064}</string>
+					<key>currentSymbolElementPath</key>
+					<array>
+						<string>1783</string>
+					</array>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -99645,7 +99653,7 @@
 			<string>14A5BC71-8118-475E-AFA2-9249AC188BFB-3030-00004688439C16B7</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>1465</string>
+				<string>1784</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -100082,7 +100090,7 @@
 			<string>14A5BC71-8118-475E-AFA2-9249AC188BFB-3030-00004688439C16B7</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>1464</string>
+				<string>1783</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -100560,7 +100568,7 @@
 			<string>14A5BC71-8118-475E-AFA2-9249AC188BFB-3030-00004688439C16B7</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>1462</string>
+				<string>1781</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -115811,9 +115819,7 @@
 			<key>documentIdentifier</key>
 			<string>14A5BC71-8118-475E-AFA2-9249AC188BFB-3030-00004688439C16B7</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>1782</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
