@@ -9,7 +9,7 @@
 	<key>createOfflineApplicationCache</key>
 	<false/>
 	<key>currentSceneContainer</key>
-	<string>1407</string>
+	<string>1</string>
 	<key>customExportSlices</key>
 	<array>
 		<dict>
@@ -74,7 +74,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2019-02-05T11:49:14Z</date>
+	<date>2019-02-05T12:27:27Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -84,7 +84,7 @@
 			<key>frame</key>
 			<string>{{0, 0}, {1379, 725}}</string>
 			<key>identifier</key>
-			<string>container 164</string>
+			<string>container 1328</string>
 			<key>isCustomizableViewContainer</key>
 			<true/>
 			<key>isCustomizableViewWrapper</key>
@@ -97,7 +97,7 @@
 					<key>frame</key>
 					<string>{{0, 0}, {1108, 725}}</string>
 					<key>identifier</key>
-					<string>container 1328</string>
+					<string>container 693</string>
 					<key>isCustomizableViewContainer</key>
 					<true/>
 					<key>isCustomizableViewWrapper</key>
@@ -234,7 +234,7 @@
 					<key>frame</key>
 					<string>{{1109, 0}, {270, 725}}</string>
 					<key>identifier</key>
-					<string>container 1327</string>
+					<string>container 692</string>
 					<key>isCustomizableViewContainer</key>
 					<true/>
 					<key>isCustomizableViewWrapper</key>
@@ -302,7 +302,7 @@
 	<key>monotypeProjectID</key>
 	<string>41B5BA01-9AC9-46D9-930D-544950E0402D-16415-0001B587AA5803E2</string>
 	<key>oidCounter</key>
-	<integer>1769</integer>
+	<integer>1784</integer>
 	<key>resourcesInfo</key>
 	<dict>
 		<key>groups</key>
@@ -8487,7 +8487,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1132, 924}</string>
+					<string>{1132, 968}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -8553,7 +8553,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>1410</string>
 					<key>scrollViewOffset</key>
-					<string>{0, 66}</string>
+					<string>{0, 48}</string>
 					<key>zoomFactor</key>
 					<real>0.5</real>
 				</dict>
@@ -59846,8 +59846,7 @@
 			<string>14A5BC71-8118-475E-AFA2-9249AC188BFB-3030-00004688439C16B7</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>1673</string>
-				<string>1672</string>
+				<string>911</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -59938,6 +59937,12 @@
 							<string>SizeRatio</string>
 							<key>objectValue</key>
 							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>AccessibilityRole</string>
+							<key>objectValue</key>
+							<string>button</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -60079,6 +60084,12 @@
 							<string>SizeRatio</string>
 							<key>objectValue</key>
 							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>AccessibilityRole</string>
+							<key>objectValue</key>
+							<string>button</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -60376,6 +60387,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>AccessibilityRole</string>
+							<key>objectValue</key>
+							<string>button</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>3</string>
@@ -60523,6 +60540,12 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>AccessibilityRole</string>
+							<key>objectValue</key>
+							<string>button</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>5</string>
@@ -60667,6 +60690,12 @@
 							<string>SizeRatio</string>
 							<key>objectValue</key>
 							<string>1</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>AccessibilityRole</string>
+							<key>objectValue</key>
+							<string>button</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -99616,7 +99645,7 @@
 			<string>14A5BC71-8118-475E-AFA2-9249AC188BFB-3030-00004688439C16B7</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>1769</string>
+				<string>1465</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -99736,7 +99765,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>&lt;font style="font-size: 64px;" face="Georgia, Times, Times New Roman, serif"&gt;טוֹב מְאֹד!&lt;/font&gt; &lt;br&gt;(Well Done!)&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;font&gt;You have made it through the first lesson! &amp;nbsp;You may repeat this lesson as many times as you need in order to master the material. &amp;nbsp;When you are ready, you may click the button below to take the quiz. &amp;nbsp;The quiz may be taken &lt;/font&gt;up to two times. &amp;nbsp;The higher of the two marks will constitute the assessment mark.&lt;br&gt;</string>
+							<string>&lt;font style="font-size: 64px;" face="Georgia, Times, Times New Roman, serif"&gt;טוֹב מְאֹד&lt;/font&gt;&amp;nbsp;&lt;br&gt;(Well Done!)&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;font&gt;You have made it through the first lesson! &amp;nbsp;You may repeat this lesson as many times as you need in order to master the material. &amp;nbsp;When you are ready, you may click the button below to take the quiz. &amp;nbsp;The quiz may be taken &lt;/font&gt;up to two times. &amp;nbsp;The higher of the two marks will constitute the assessment mark.&lt;br&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -99805,7 +99834,7 @@
 							<string>#073B1A</string>
 						</dict>
 					</array>
-					<key>1769</key>
+					<key>1784</key>
 					<array>
 						<dict>
 							<key>identifier</key>
@@ -99823,19 +99852,19 @@
 							<key>identifier</key>
 							<string>SymbolOid</string>
 							<key>objectValue</key>
-							<string>1685</string>
+							<string>1780</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>64px</string>
+							<string>63px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
-							<string>65px</string>
+							<string>77px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -99847,19 +99876,19 @@
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>192px</string>
+							<string>194px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>467px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>2</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>477px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -99881,21 +99910,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ScaleX</string>
-							<key>objectValue</key>
-							<string>0.8</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ScaleY</string>
-							<key>objectValue</key>
-							<string>0.8</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -99996,7 +100013,7 @@
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>1769</string>
+								<string>1784</string>
 								<key>startTime</key>
 								<real>0.0</real>
 								<key>startValue</key>
@@ -100039,7 +100056,7 @@
 								<key>type</key>
 								<integer>3</integer>
 								<key>uuid</key>
-								<string>09B58725-3F10-418B-A915-B24D11797936-86920-00003565CFEA54F4</string>
+								<string>A0B4F0EF-3560-444F-A4B2-574734D17162-3030-00004A82EAE22CDD</string>
 								<key>zIndex</key>
 								<integer>1</integer>
 							</dict>
@@ -100065,7 +100082,7 @@
 			<string>14A5BC71-8118-475E-AFA2-9249AC188BFB-3030-00004688439C16B7</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>1768</string>
+				<string>1464</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -100185,7 +100202,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>&lt;br&gt;&lt;font face="Georgia, Times, Times New Roman, serif"&gt;&lt;font style="font-size: 64px;"&gt;טוֹב מְאֹד!&lt;/font&gt; &lt;/font&gt;&lt;br&gt;(Well Done!)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;You have made it through the first lesson! &amp;nbsp;You may repeat this lesson as many times as you need in order to master the material. &amp;nbsp;When you are ready, you may click the button below to take the quiz. &amp;nbsp;The quiz may be taken up to two times. &amp;nbsp;The higher of the two marks will constitute the assessment mark.&lt;br&gt;</string>
+							<string>&lt;br&gt;&lt;font face="Georgia, Times, Times New Roman, serif"&gt;&lt;font style="font-size: 64px;"&gt;טוֹב מְאֹד&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;br&gt;(Well Done!)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;You have made it through the first lesson! &amp;nbsp;You may repeat this lesson as many times as you need in order to master the material. &amp;nbsp;When you are ready, you may click the button below to take the quiz. &amp;nbsp;The quiz may be taken up to two times. &amp;nbsp;The higher of the two marks will constitute the assessment mark.&lt;br&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -100254,7 +100271,7 @@
 							<string>#FFFFFF</string>
 						</dict>
 					</array>
-					<key>1768</key>
+					<key>1783</key>
 					<array>
 						<dict>
 							<key>identifier</key>
@@ -100272,19 +100289,19 @@
 							<key>identifier</key>
 							<string>SymbolOid</string>
 							<key>objectValue</key>
-							<string>1685</string>
+							<string>1780</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>288px</string>
+							<string>287px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
-							<string>65px</string>
+							<string>77px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -100296,19 +100313,19 @@
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>192px</string>
+							<string>194px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Top</string>
+							<key>objectValue</key>
+							<string>757px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>2</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>787px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -100330,21 +100347,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ScaleX</string>
-							<key>objectValue</key>
-							<string>0.9</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ScaleY</string>
-							<key>objectValue</key>
-							<string>0.9</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -100486,7 +100491,7 @@
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>1768</string>
+								<string>1783</string>
 								<key>startTime</key>
 								<real>0.0</real>
 								<key>startValue</key>
@@ -100529,9 +100534,9 @@
 								<key>type</key>
 								<integer>3</integer>
 								<key>uuid</key>
-								<string>B9951D36-074E-42B5-9653-56D7FE400C0B-86920-000035645D7952C8</string>
+								<string>8AA956D6-5751-4944-8605-740AE3ED28BD-3030-00004A81E98D2814</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>1</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -100555,7 +100560,7 @@
 			<string>14A5BC71-8118-475E-AFA2-9249AC188BFB-3030-00004688439C16B7</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>1686</string>
+				<string>1462</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -100675,7 +100680,7 @@
 							<key>identifier</key>
 							<string>InnerHTML</string>
 							<key>objectValue</key>
-							<string>&lt;br&gt;&lt;font face="Georgia, Times, Times New Roman, serif"&gt;&lt;font style="font-size: 64px;"&gt;טוֹב מְאֹד!&lt;/font&gt; &lt;/font&gt;&lt;br&gt;(Well Done!)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;You have made it through the first lesson! &amp;nbsp;You may repeat this lesson as many times as you need in order to master the material. &amp;nbsp;When you are ready, you may click the button below to take the quiz. &amp;nbsp;The quiz may be taken up to two times. &amp;nbsp;The higher of the two marks will constitute the assessment mark.&lt;br&gt;</string>
+							<string>&lt;br&gt;&lt;font face="Georgia, Times, Times New Roman, serif"&gt;&lt;font style="font-size: 64px;"&gt;טוֹב מְאֹד&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;br&gt;(Well Done!)&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;You have made it through the first lesson! &amp;nbsp;You may repeat this lesson as many times as you need in order to master the material. &amp;nbsp;When you are ready, you may click the button below to take the quiz. &amp;nbsp;The quiz may be taken up to two times. &amp;nbsp;The higher of the two marks will constitute the assessment mark.&lt;br&gt;</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -100744,7 +100749,7 @@
 							<string>#073B1A</string>
 						</dict>
 					</array>
-					<key>1686</key>
+					<key>1781</key>
 					<array>
 						<dict>
 							<key>identifier</key>
@@ -100762,19 +100767,19 @@
 							<key>identifier</key>
 							<string>SymbolOid</string>
 							<key>objectValue</key>
-							<string>1685</string>
+							<string>1780</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Left</string>
 							<key>objectValue</key>
-							<string>504px</string>
+							<string>503px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
-							<string>65px</string>
+							<string>77px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -100786,7 +100791,7 @@
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>192px</string>
+							<string>194px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -100798,7 +100803,7 @@
 							<key>identifier</key>
 							<string>Top</string>
 							<key>objectValue</key>
-							<string>600px</string>
+							<string>625px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -100820,39 +100825,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ActionHandlerOnMouseClick</string>
-							<key>objectValue</key>
-							<dict>
-								<key>actions</key>
-								<array>
-									<dict>
-										<key>goToURL</key>
-										<string>https://my.sats.edu.za/mod/quiz/view.php?id=28533</string>
-										<key>openInNewWindow</key>
-										<true/>
-										<key>type</key>
-										<integer>5</integer>
-									</dict>
-								</array>
-							</dict>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Cursor</string>
-							<key>objectValue</key>
-							<string>pointer</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>AccessibilityRole</string>
-							<key>objectValue</key>
-							<string>button</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -100994,7 +100969,7 @@
 								<key>isRelative</key>
 								<false/>
 								<key>referenceOid</key>
-								<string>1686</string>
+								<string>1781</string>
 								<key>startTime</key>
 								<real>0.0</real>
 								<key>startValue</key>
@@ -101037,9 +101012,9 @@
 								<key>type</key>
 								<integer>3</integer>
 								<key>uuid</key>
-								<string>1B8FFAFE-9314-44AE-8B8F-EB8D2DBADB98-86239-00002484EBD69829</string>
+								<string>5D8D9DEA-02B8-425E-9FF2-4BFE5C8FD8BF-3030-00004A8061C0D2C7</string>
 								<key>zIndex</key>
-								<integer>2</integer>
+								<integer>1</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
@@ -115836,7 +115811,9 @@
 			<key>documentIdentifier</key>
 			<string>14A5BC71-8118-475E-AFA2-9249AC188BFB-3030-00004688439C16B7</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>1782</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -115847,7 +115824,7 @@
 				<array/>
 				<key>elements</key>
 				<dict>
-					<key>1684</key>
+					<key>1782</key>
 					<array>
 						<dict>
 							<key>identifier</key>
@@ -115919,13 +115896,13 @@
 							<key>identifier</key>
 							<string>FontSize</string>
 							<key>objectValue</key>
-							<string>36px</string>
+							<string>24px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderRadiusTopRight</string>
 							<key>objectValue</key>
-							<string>15px</string>
+							<string>4px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -115949,7 +115926,7 @@
 							<key>identifier</key>
 							<string>Height</string>
 							<key>objectValue</key>
-							<string>51px</string>
+							<string>63px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -116045,19 +116022,13 @@
 							<key>identifier</key>
 							<string>Width</string>
 							<key>objectValue</key>
-							<string>178px</string>
+							<string>180px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ClassType</string>
 							<key>objectValue</key>
 							<string>Button</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>FontFamily</string>
-							<key>objectValue</key>
-							<string>Futura,Verdana,sans-serif</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -116068,7 +116039,7 @@
 								<array>
 									<dict>
 										<key>goToURL</key>
-										<string>https://my.sats.edu.za/mod/quiz/view.php?id=28533</string>
+										<string>https://my.sats.edu.za/mod/quiz/view.php?id=38373</string>
 										<key>openInNewWindow</key>
 										<false/>
 										<key>type</key>
@@ -116087,7 +116058,7 @@
 							<key>identifier</key>
 							<string>BorderRadiusBottomRight</string>
 							<key>objectValue</key>
-							<string>15px</string>
+							<string>4px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -116099,13 +116070,19 @@
 							<key>identifier</key>
 							<string>BorderRadiusBottomLeft</string>
 							<key>objectValue</key>
-							<string>15px</string>
+							<string>4px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>LineHeight</string>
+							<key>objectValue</key>
+							<string>61px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>BorderRadiusTopLeft</string>
 							<key>objectValue</key>
-							<string>15px</string>
+							<string>4px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -116138,66 +116115,11 @@
 				<key>name</key>
 				<string>Symbol</string>
 				<key>oid</key>
-				<string>1682</string>
-				<key>onSceneDragActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneKeyDownActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneKeyPressActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneKeyUpActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneLoadActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneSwipeDownActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneSwipeLeftActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneSwipeRightActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneSwipeUpActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneTimelineCompleteActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneUnloadActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
+				<string>1780</string>
 				<key>onTopDuringSceneTransition</key>
 				<true/>
 				<key>preferredSize</key>
-				<string>{190, 58}</string>
+				<string>{194, 77}</string>
 				<key>properties</key>
 				<dict>
 					<key>PhysicsGravityAngle</key>
@@ -116218,304 +116140,6 @@
 					<dict>
 						<key>animations</key>
 						<array/>
-						<key>firstKeyframeIsRelative</key>
-						<false/>
-						<key>framesPerSecond</key>
-						<integer>30</integer>
-						<key>hidden</key>
-						<false/>
-						<key>identifier</key>
-						<string>kTimelineDefaultIdentifier</string>
-						<key>name</key>
-						<string>Main Timeline</string>
-						<key>userDefinedDuration</key>
-						<real>0.0</real>
-					</dict>
-				</array>
-			</dict>
-		</dict>
-		<dict>
-			<key>documentIdentifier</key>
-			<string>14A5BC71-8118-475E-AFA2-9249AC188BFB-3030-00004688439C16B7</string>
-			<key>selectedObjects</key>
-			<array>
-				<string>1687</string>
-			</array>
-			<key>symbol</key>
-			<dict>
-				<key>addToNewSceneControllers</key>
-				<false/>
-				<key>currentTimelineIdentifier</key>
-				<string>kTimelineDefaultIdentifier</string>
-				<key>customBehaviors</key>
-				<array/>
-				<key>elements</key>
-				<dict>
-					<key>1687</key>
-					<array>
-						<dict>
-							<key>identifier</key>
-							<string>DisplayName</string>
-							<key>objectValue</key>
-							<string>unnamed instance</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Position</string>
-							<key>objectValue</key>
-							<string>absolute</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>SymbolOid</string>
-							<key>objectValue</key>
-							<string>1682</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Left</string>
-							<key>objectValue</key>
-							<string>2px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Height</string>
-							<key>objectValue</key>
-							<string>58px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Overflow</string>
-							<key>objectValue</key>
-							<string>visible</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>190px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ZIndex</string>
-							<key>objectValue</key>
-							<string>3</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Top</string>
-							<key>objectValue</key>
-							<string>-3px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ActionHandler</string>
-							<key>objectValue</key>
-							<dict>
-								<key>actions</key>
-								<array>
-									<dict>
-										<key>playInReverse</key>
-										<false/>
-										<key>timelineIdentifier</key>
-										<string>kTimelineDefaultIdentifier</string>
-										<key>type</key>
-										<integer>3</integer>
-									</dict>
-								</array>
-							</dict>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ActionHandlerOnMouseClick</string>
-							<key>objectValue</key>
-							<dict>
-								<key>actions</key>
-								<array>
-									<dict>
-										<key>goToURL</key>
-										<string>https://my.sats.edu.za/mod/quiz/view.php?id=28533</string>
-										<key>openInNewWindow</key>
-										<false/>
-										<key>type</key>
-										<integer>5</integer>
-									</dict>
-								</array>
-							</dict>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>TagName</string>
-							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Cursor</string>
-							<key>objectValue</key>
-							<string>pointer</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>AccessibilityRole</string>
-							<key>objectValue</key>
-							<string>button</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ExplicitDimensions</string>
-							<key>objectValue</key>
-							<string>YES</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>ClassType</string>
-							<key>objectValue</key>
-							<string>Symbol</string>
-						</dict>
-					</array>
-				</dict>
-				<key>isPersistentSymbol</key>
-				<false/>
-				<key>name</key>
-				<string>Quiz Button</string>
-				<key>oid</key>
-				<string>1685</string>
-				<key>onSceneDragActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneKeyDownActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneKeyPressActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneKeyUpActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneLoadActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneSwipeDownActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneSwipeLeftActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneSwipeRightActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneSwipeUpActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneTimelineCompleteActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onSceneUnloadActionHandler</key>
-				<dict>
-					<key>actions</key>
-					<array/>
-				</dict>
-				<key>onTopDuringSceneTransition</key>
-				<true/>
-				<key>preferredSize</key>
-				<string>{192, 65}</string>
-				<key>properties</key>
-				<dict>
-					<key>PhysicsGravityAngle</key>
-					<real>180</real>
-					<key>PhysicsGravityForce</key>
-					<real>1</real>
-					<key>PhysicsGravityInheritFromParent</key>
-					<false/>
-					<key>PhysicsGravityUsesDeviceTilt</key>
-					<false/>
-				</dict>
-				<key>removeWhenNoLongerReferenced</key>
-				<true/>
-				<key>showInResourceLibrary</key>
-				<true/>
-				<key>timelines</key>
-				<array>
-					<dict>
-						<key>animations</key>
-						<array>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
-								<key>identifier</key>
-								<string>ActionHandler</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>1687</string>
-								<key>startTime</key>
-								<real>0.0</real>
-								<key>startValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ActionHandler</string>
-									<key>objectValue</key>
-									<dict>
-										<key>actions</key>
-										<array>
-											<dict>
-												<key>playInReverse</key>
-												<false/>
-												<key>timelineIdentifier</key>
-												<string>kTimelineDefaultIdentifier</string>
-												<key>type</key>
-												<integer>3</integer>
-											</dict>
-										</array>
-									</dict>
-								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict>
-									<key>kTimelineDefaultIdentifier</key>
-									<dict>
-										<key>currentTime</key>
-										<real>0.0</real>
-										<key>duration</key>
-										<real>0.0</real>
-										<key>index</key>
-										<integer>0</integer>
-										<key>playInReverse</key>
-										<false/>
-										<key>playing</key>
-										<true/>
-									</dict>
-								</dict>
-								<key>timingFunctionOid</key>
-								<string>a</string>
-								<key>type</key>
-								<integer>3</integer>
-								<key>uuid</key>
-								<string>3E8CC478-9A60-4EC3-9FB4-DD9ED085C576-86239-00002484EC725FCC</string>
-								<key>zIndex</key>
-								<integer>1</integer>
-							</dict>
-						</array>
 						<key>firstKeyframeIsRelative</key>
 						<false/>
 						<key>framesPerSecond</key>
