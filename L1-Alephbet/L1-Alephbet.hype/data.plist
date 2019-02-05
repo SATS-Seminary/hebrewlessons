@@ -74,7 +74,7 @@
 	<key>hasManuallyChangedCSSPositioning</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2019-02-05T11:44:03Z</date>
+	<date>2019-02-05T11:49:14Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -100829,7 +100829,7 @@
 										<key>goToURL</key>
 										<string>https://my.sats.edu.za/mod/quiz/view.php?id=28533</string>
 										<key>openInNewWindow</key>
-										<false/>
+										<true/>
 										<key>type</key>
 										<integer>5</integer>
 									</dict>
