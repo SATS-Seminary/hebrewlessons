@@ -113,7 +113,7 @@
 &lt;/style&gt;	
 	</string>
 	<key>lastCheckDate</key>
-	<date>2019-08-07T13:23:40Z</date>
+	<date>2019-08-07T13:28:53Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -131995,9 +131995,7 @@
 			<key>documentIdentifier</key>
 			<string>98C6112E-8D50-415C-837A-A604405DCD02-458-000010C07E89E6DA</string>
 			<key>selectedObjects</key>
-			<array>
-				<string>2718</string>
-			</array>
+			<array/>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -137173,7 +137171,7 @@
 						<array>
 							<dict>
 								<key>duration</key>
-								<real>0.83333331346511841</real>
+								<real>1</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -137183,12 +137181,12 @@
 										<key>actions</key>
 										<array>
 											<dict>
-												<key>goToURL</key>
-												<string>#dtvocab1</string>
-												<key>openInNewWindow</key>
-												<false/>
+												<key>symbolOid</key>
+												<string>1412</string>
+												<key>timelineIdentifier</key>
+												<string>kTimelineDefaultIdentifier</string>
 												<key>type</key>
-												<integer>5</integer>
+												<integer>7</integer>
 											</dict>
 										</array>
 									</dict>
@@ -137298,28 +137296,8 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>0.16666668653488159</real>
+								<real>1.5</real>
 								<key>endValue</key>
-								<dict>
-									<key>identifier</key>
-									<string>ActionHandler</string>
-									<key>objectValue</key>
-									<dict>
-										<key>actions</key>
-										<array>
-											<dict/>
-										</array>
-									</dict>
-								</dict>
-								<key>identifier</key>
-								<string>ActionHandler</string>
-								<key>isRelative</key>
-								<false/>
-								<key>referenceOid</key>
-								<string>kTimelineDefaultIdentifier</string>
-								<key>startTime</key>
-								<real>0.83333331346511841</real>
-								<key>startValue</key>
 								<dict>
 									<key>identifier</key>
 									<string>ActionHandler</string>
@@ -137338,20 +137316,6 @@
 										</array>
 									</dict>
 								</dict>
-								<key>symbolElementActionAttributesBySymbolTimeline</key>
-								<dict/>
-								<key>timingFunctionOid</key>
-								<string>c</string>
-								<key>type</key>
-								<integer>2</integer>
-								<key>uuid</key>
-								<string>8C090563-1E76-4779-BBCA-2E8E1226E32D-23502-0000EB069F4B305C</string>
-								<key>zIndex</key>
-								<integer>2</integer>
-							</dict>
-							<dict>
-								<key>duration</key>
-								<real>0.0</real>
 								<key>identifier</key>
 								<string>ActionHandler</string>
 								<key>isRelative</key>
@@ -137388,7 +137352,7 @@
 								<key>uuid</key>
 								<string>0A219977-7B64-4389-8D24-304A321709C9-458-0000113B46F61ED8</string>
 								<key>zIndex</key>
-								<integer>3</integer>
+								<integer>2</integer>
 							</dict>
 							<dict>
 								<key>duration</key>
@@ -137834,6 +137798,47 @@
 								<string>344477F8-177A-44F9-A574-F60D3F618A29-7269-00002EC2AFE70B8B</string>
 								<key>zIndex</key>
 								<integer>2</integer>
+							</dict>
+							<dict>
+								<key>duration</key>
+								<real>0.0</real>
+								<key>identifier</key>
+								<string>ActionHandler</string>
+								<key>isRelative</key>
+								<false/>
+								<key>referenceOid</key>
+								<string>kTimelineDefaultIdentifier</string>
+								<key>startTime</key>
+								<real>2.5</real>
+								<key>startValue</key>
+								<dict>
+									<key>identifier</key>
+									<string>ActionHandler</string>
+									<key>objectValue</key>
+									<dict>
+										<key>actions</key>
+										<array>
+											<dict>
+												<key>goToURL</key>
+												<string>#dtvocab1</string>
+												<key>openInNewWindow</key>
+												<false/>
+												<key>type</key>
+												<integer>5</integer>
+											</dict>
+										</array>
+									</dict>
+								</dict>
+								<key>symbolElementActionAttributesBySymbolTimeline</key>
+								<dict/>
+								<key>timingFunctionOid</key>
+								<string>c</string>
+								<key>type</key>
+								<integer>2</integer>
+								<key>uuid</key>
+								<string>8C090563-1E76-4779-BBCA-2E8E1226E32D-23502-0000EB069F4B305C</string>
+								<key>zIndex</key>
+								<integer>3</integer>
 							</dict>
 						</array>
 						<key>firstKeyframeIsRelative</key>
