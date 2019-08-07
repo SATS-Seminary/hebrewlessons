@@ -113,7 +113,7 @@
 &lt;/style&gt;	
 	</string>
 	<key>lastCheckDate</key>
-	<date>2019-08-07T13:28:53Z</date>
+	<date>2019-08-07T13:32:30Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -6805,7 +6805,7 @@
 	<array>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>5</string>
+			<string>215</string>
 			<key>name</key>
 			<string>Intro</string>
 			<key>oid</key>
@@ -6951,7 +6951,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>484</string>
+			<string>482</string>
 			<key>name</key>
 			<string>Long Vowels</string>
 			<key>oid</key>
@@ -7085,7 +7085,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>728</string>
+			<string>726</string>
 			<key>name</key>
 			<string>Short Vowels</string>
 			<key>oid</key>
@@ -7223,7 +7223,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>1526</string>
+			<string>1506</string>
 			<key>name</key>
 			<string>Reduced Vowels</string>
 			<key>oid</key>
@@ -7361,7 +7361,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>2561</string>
+			<string>2540</string>
 			<key>name</key>
 			<string>Shewa</string>
 			<key>oid</key>
@@ -7501,7 +7501,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>735</string>
+			<string>733</string>
 			<key>name</key>
 			<string>Vowel Letters</string>
 			<key>oid</key>
@@ -7647,7 +7647,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>742</string>
+			<string>740</string>
 			<key>name</key>
 			<string>Vowel Letters</string>
 			<key>oid</key>
@@ -7785,7 +7785,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>1333</string>
+			<string>1324</string>
 			<key>name</key>
 			<string>Vowel Letters</string>
 			<key>oid</key>
@@ -7925,7 +7925,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>2149</string>
+			<string>2454</string>
 			<key>name</key>
 			<string>Defective Writing</string>
 			<key>oid</key>
@@ -8067,7 +8067,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>2666</string>
+			<string>2639</string>
 			<key>name</key>
 			<string>Double-Duty Dot</string>
 			<key>oid</key>
@@ -8205,7 +8205,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>2780</string>
+			<string>2767</string>
 			<key>name</key>
 			<string>Furtive Pathach</string>
 			<key>oid</key>
@@ -8345,7 +8345,7 @@
 		</dict>
 		<dict>
 			<key>currentSceneOid</key>
-			<string>1413</string>
+			<string>1411</string>
 			<key>name</key>
 			<string>Practise 1</string>
 			<key>oid</key>
@@ -8405,7 +8405,7 @@
 							<key>3023</key>
 							<real>0.0</real>
 							<key>kTimelineDefaultIdentifier</key>
-							<real>0.0</real>
+							<real>0.10000000149011612</real>
 						</dict>
 						<key>timescale</key>
 						<integer>60</integer>
@@ -131995,7 +131995,9 @@
 			<key>documentIdentifier</key>
 			<string>98C6112E-8D50-415C-837A-A604405DCD02-458-000010C07E89E6DA</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>2718</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -132405,6 +132407,18 @@
 										<string>kTimelineDefaultIdentifier</string>
 										<key>type</key>
 										<integer>9</integer>
+									</dict>
+									<dict>
+										<key>canRestartTimeline</key>
+										<false/>
+										<key>playInReverse</key>
+										<false/>
+										<key>symbolOid</key>
+										<string>1412</string>
+										<key>timelineIdentifier</key>
+										<string>kTimelineDefaultIdentifier</string>
+										<key>type</key>
+										<integer>8</integer>
 									</dict>
 								</array>
 							</dict>
@@ -138711,7 +138725,9 @@
 			<key>documentIdentifier</key>
 			<string>98C6112E-8D50-415C-837A-A604405DCD02-458-000010C07E89E6DA</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>2716</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
